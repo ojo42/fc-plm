@@ -5,5 +5,13 @@ This will be my python-learning project.
 
 Actually I'm trying to get this github-stuff alive.
 
-My next step will be defining(publish already defined)variables and processes.
-
+## Roadmap
+ Defining variables
+ 
+ Define database structure
+ 
+ Define procedures
+ 
+ Define user environment
+ 
+ 
