@@ -3,10 +3,10 @@ A product lifecycle management system to be used with FreeCAD.
 
 This will be my python-learning project.
 
-Actually I'm trying to get this github-stuff alive.
+*Actually I'm trying to get this github-stuff alive.*
 
 ## Roadmap
- Defining variables
+ [Defining variables](https://github.com/ojo42/fc-plm/wiki/Data-necessary-for-PLM)
  
  Define database structure
  
