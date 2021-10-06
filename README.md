@@ -10,7 +10,7 @@ This will be my python-learning project.
  
  Define database structure
  
- Define procedures
+ [Define procedures](https://github.com/ojo42/fc-plm/wiki/Procedures)
  
  Define user environment
  
