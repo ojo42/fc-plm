@@ -8,7 +8,7 @@ This will be my python-learning project.
 ## Roadmap
  [Defining variables](https://github.com/ojo42/fc-plm/wiki/Data-necessary-for-PLM)
  
- Define database structure
+ [Define database structure](https://github.com/ojo42/fc-plm/wiki/Database_Layout)
  
  [Define procedures](https://github.com/ojo42/fc-plm/wiki/Procedures)
  
